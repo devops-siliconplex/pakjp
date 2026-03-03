@@ -694,7 +694,7 @@ a:active {
 }
 
 .main-navigation ul li.menu-item-has-children > a::after, .main-navigation ul li.page_item_has_children > a::after {
-    content: "";
+    /* content: ""; */
     font-family: FontAwesome;
     margin-left: 10px;
     margin-right: 0;
