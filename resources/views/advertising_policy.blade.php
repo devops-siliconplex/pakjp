@@ -18,7 +18,7 @@
                                     no-advertising policy across all print and digital platorms. To uphold the highest standards of editorial
                                     independence, all content is curated and published exclusively for scholarly advancement, remaining
                                     entirely free from commercial influence.
-                                </p>ement. A separate body, comprising two editors, will evaluate appeals, and its decision shall be deemed final.”</p>
+                                </p>
                                 
                             </div><!-- .entry-content -->
                         </div>

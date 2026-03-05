@@ -36,7 +36,7 @@ Route::get('home', function () {
 Route::get('board', function () {
     return view('board');
 });
-Route::get('instructions', function () {
+Route::get('instruction-for-authors', function () {
     return view('instructions');
 });
 
@@ -46,7 +46,7 @@ Route::get('editorial-board', function () {
 Route::get('peer-review', function (){
     return view('peer_review');
 });
-Route::get('conflict-of-interes', function (){
+Route::get('conflict-of-interest', function (){
     return view('conflict_of_interes');
 });
 Route::get('appeals-url', function (){

@@ -78,14 +78,14 @@
                                                                         
                                         <ul class="sub-menu">
                                             <li>
-                                                <a href="{{ url('/instructions') }}">Instructions</a>
+                                                <a href="{{ url('/instruction-for-authors') }}">Instructions for Authors</a>
                                             </li>
                                             <li class="{{ request()->is('instructions/editorial') ? 'current-menu-item' : ''}}">
                                                 <a href="/peer-review">Peer Review Guidelines</a>
                                             </li>
                                         
                                             <li class="{{ request()->is('instructions/guidelines') ? 'current-menu-item' : ''}}">
-                                                <a href="{{ url('conflict-of-interes')}}">conflict of interes</a>
+                                                <a href="{{ url('conflict-of-interest')}}">conflict of interest</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -104,7 +104,7 @@
                                             </li>
                                         
                                             <li class="{{ request()->is('instructions/guidelines') ? 'current-menu-item' : ''}}">
-                                                <a href="{{ url('conflict-of-interes')}}">complain policy</a>
+                                                <a href="{{ url('/complain-policy')}}">complain policy</a>
                                             </li>
                                             
                                             <li class="{{ request()->is('instructions/guidelines') ? 'current-menu-item' : ''}}">
