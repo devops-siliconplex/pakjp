@@ -47,7 +47,7 @@ Route::get('peer-review', function (){
     return view('peer_review');
 });
 Route::get('conflict-of-interest', function (){
-    return view('conflict_of_interes');
+    return view('conflict_of_interest');
 });
 Route::get('appeals-url', function (){
     return view('appeals_url');
