@@ -27,7 +27,7 @@
                             <div class="entry-content">
                                 
                 <h2>How to make a Complaint</h2>
-                <p>The Pakistan Journal of Pharmaceutical Science’s (PAKJP) office can be contacted by email at pakjps@hotmail.com. Authors can use this address to file a formal complaint about any Editorial Staff, Peer Reviewer/Editorial Board Member (including an appeal against suspected coerced citation, or if a reviewer is suspected of appropriating author material), the publisher, and/or publishing policies or processes. The email subject line should read "Complaint," and the body should include an explanation of the reason for the complaint. Action on any complaint will be prioritized and processed further.</p>
+                <p>The Pakistan Journal of Pharmaceutical Science’s (PAKJP) office can be contacted by email at pjps@uok.edu.pk. Authors can use this address to file a formal complaint about any Editorial Staff, Peer Reviewer/Editorial Board Member (including an appeal against suspected coerced citation, or if a reviewer is suspected of appropriating author material), the publisher, and/or publishing policies or processes. The email subject line should read "Complaint," and the body should include an explanation of the reason for the complaint. Action on any complaint will be prioritized and processed further.</p>
 
                 <p> <strong>Processing steps:</strong>
                 <p><strong>Step 1:</strong> The PAKJP office will review the complaint request. The individual who is the subject of the complaint will not handle complaints about editorial staff, peer reviewers, or members of the editorial board to prevent any potential conflicts of interest.                    <br>
