@@ -1,8 +1,8 @@
 <header class="header">
     <div class="page-brand">
         <a href="/login">
-            <span class="brand">PJPS</span>
-            <span class="brand-mini">PJPS</span>
+            <span class="brand">PAKJP</span>
+            <span class="brand-mini">PAKJP</span>
         </a>
     </div>
     <div class="flexbox flex-1">

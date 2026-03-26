@@ -30,7 +30,7 @@
                             <div class="entry-content">
   
                                 <h2>Publication Misconduct:</h2>
-                                <p>To uphold the standards of academic publishing, the Pakistan Journal of Pharmaceutical Sciences (PJPS)
+                                <p>To uphold the standards of academic publishing, the Pakistan Journal of Pharmaceutical Sciences (PAKJP)
                                     makes every effort to ensure high standards of publication ethics and follows the
                                     <a
                                         href="https://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/scientific-misconduct-expressions-of-concern-and-retraction.html">ICMJE
@@ -41,7 +41,7 @@
                                         COPE Guidelines</a>.
                                     Publication Misconduct refers to inappropriate or unacceptable behavior in publishing articles. It can
                                     include plagiarism, fabrication, falsification, inappropriate authorship, duplicate submissions,
-                                    overlapping publication, and salami publication. PJPS takes all the necessary actions to protect the
+                                    overlapping publication, and salami publication. PAKJP takes all the necessary actions to protect the
                                     integrity of the original data.
                                 </p>
                 
@@ -89,7 +89,7 @@
                                 </p>
                 
                                 <p>Policy of the Journal: <br>
-                                    • Removal of the name of the author that doesn’t line up with the author’s contribution criteria of the Journal (as described on the PJPS website).
+                                    • Removal of the name of the author that doesn’t line up with the author’s contribution criteria of the Journal (as described on the PAKJP website).
                                 </p>
                                 <p><strong>Duplicate Submissions</strong> <br>
                                    The practice of submitting the same manuscript, or multiple manuscripts with slight variations (such as differences in the title, keywords, abstract, author order, author affiliations, or a small amount of text), to two or more journals simultaneously, or submitting to another journal within a predetermined window of time, is known as duplicate submission or multiple submissions.
@@ -97,7 +97,7 @@
                                 <p>Policy of the Journal: <br>
                                     • Upon confirmation of the duplicate submission, the journal will reject the manuscript.
                                     <br>
-                                    • Once the duplicate submission is confirmed, the journal (PJPS) will notify the author about the duplicate submission to the journal where the article was originally published
+                                    • Once the duplicate submission is confirmed, the journal (PAKJP) will notify the author about the duplicate submission to the journal where the article was originally published
                                     <br>
                                     •  Upon verifying any misconduct, the journal will notify the Author’s affiliated Institute about the misconduct of the author(s).
                                 </p>

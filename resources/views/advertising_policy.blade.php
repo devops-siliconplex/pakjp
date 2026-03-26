@@ -14,7 +14,7 @@
                             <div class="entry-content">
                                 <h2>Advertising Policy</h2>
                                 <p>
-                                    The Pakistan Journal of Pharmaceutical Sciences (PJPS) maintains a strict
+                                    The Pakistan Journal of Pharmaceutical Sciences (PAKJP) maintains a strict
                                     no-advertising policy across all print and digital platorms. To uphold the highest standards of editorial
                                     independence, all content is curated and published exclusively for scholarly advancement, remaining
                                     entirely free from commercial influence.

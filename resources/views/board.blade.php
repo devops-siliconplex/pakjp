@@ -143,8 +143,9 @@
 
                                     <p>Faculty of Pharmacy and Pharmaceutical Sciences,<br>The University of
                                         Karachi,<br>Karachi-75270, Pakistan.<br><strong>Email:&nbsp;</strong><a
-                                            href="mailto:pj_pharmacology@yahoo.com">pj_pharmacology@yahoo.com</a>&nbsp;–&nbsp;<a
-                                            href="mailto:pjp@uok.edu.pk">pjp@uok.edu.pk</a></p>
+                                            href="mailto:pj_pharmacology@yahoo.com">pj_pharmacology@yahoo.com</a>&nbsp;
+                                            </p>
+                                            {{-- <a href="mailto:pjp@uok.edu.pk">pjp@uok.edu.pk</a> --}}
                                 </div><!-- .entry-content -->
                             </div>
                         </div>
