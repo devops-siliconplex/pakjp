@@ -30,7 +30,7 @@
                             <div class="entry-content">
   
                                 <h2>Publication Misconduct:</h2>
-                                <p>To uphold the standards of academic publishing, the Pakistan Journal of Pharmaceutical Sciences (PAKJP)
+                                <p>To uphold the standards of academic publishing, the Pakistan Journal of Pharmacology (PAKJP)
                                     makes every effort to ensure high standards of publication ethics and follows the
                                     <a
                                         href="https://www.icmje.org/recommendations/browse/publishing-and-editorial-issues/scientific-misconduct-expressions-of-concern-and-retraction.html">ICMJE

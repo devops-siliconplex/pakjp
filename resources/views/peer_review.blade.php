@@ -28,7 +28,7 @@
                             </header><!-- .entry-header -->
 
                             <div class="entry-content">
-                                <p> Pakistan Journal of Pharmaceutical Sciences (PAKJP) requires the Peer Reviewers to review these guidelines before evaluating the manuscript. After reading this, the reviewer should have most of their questions answered. It will also help them complete a peer review report as thoroughly and efficiently as possible, ensuring that the work is properly evaluated and published on time. The reviewers are advised to contact our editorial office if they have any additional queries.</p>
+                                <p> Pakistan Journal of Pharmacology (PAKJP) requires the Peer Reviewers to review these guidelines before evaluating the manuscript. After reading this, the reviewer should have most of their questions answered. It will also help them complete a peer review report as thoroughly and efficiently as possible, ensuring that the work is properly evaluated and published on time. The reviewers are advised to contact our editorial office if they have any additional queries.</p>
 
                                 <p><strong>Importance of Peer Review:</strong> The Editor in Chief uses the feedback and suggestions from peer reviewers as a crucial source of information when choosing a manuscript. Peer review ensures that articles receive objective criticism and knowledgeable input, enabling writers to make improvements and, consequently, publish high-caliber scientific studies and reviews. In cases where peer reviewer comments are accessible, it also helps readers make educated decisions and trust the article's scientific integrity.</p>
 
