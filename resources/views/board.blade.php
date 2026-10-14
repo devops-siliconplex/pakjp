@@ -29,8 +29,8 @@
                                     <ul>
                                         <li><a
                                                 href="#"><strong></strong></a><strong><a
-                                                    rel="noreferrer noopener" href="#"
-                                                    target="_blank">Nasira Khatoon</a></strong>,&nbsp;Vice-Chancellor,
+                                                    rel="noreferrer noopener" href="https://www.uok.edu.pk/vice-chancellor"
+                                                    target="_blank">Prof. Dr. Wasim Qazi</a></strong>,&nbsp;Vice-Chancellor,
                                             University of Karachi, Karachi, Pakistan</li>
                                     </ul>
 
@@ -67,29 +67,65 @@
 
 
                                     <ul>
+                                        <li><a href="#"><strong>Adnan
+                                                    Iqbal</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Afshan
+                                                    Siddiq</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Amber Hanif
+                                                    Palla</strong></a>,&nbsp;Aga Khan University, Karachi,
+                                            Pakistan<br></li>
                                         <li><a href="#"><strong>Anwar Ejaz
                                                     Baig</strong></a>,&nbsp;Professor and Advisory to VC, Ziauddin
                                             University, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Asia
+                                                    Naz</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Azra
+                                                    Riaz</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
                                         <li><a href="#"><strong>Rahela
                                                     Ikram</strong></a>,&nbsp;Dean, Faculty of Pharmacy and Pharmaceutical
                                             Sciences, University of Karachi, Karachi, Pakistan</li>
                                         <li><a href="#"><strong>Fouzia
                                                     Hassan</strong></a>,&nbsp;Adjunct Professor, Faculty of Pharmacy and
                                             Pharmaceutical Sciences, University of Karachi, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Furqan
+                                                    Akhtar</strong></a>,&nbsp;Riphah International University,
+                                            Lahore<br></li>
                                         <li><a href="#"><strong>Ghazala H.
                                                     Rizwani</strong></a>,&nbsp;Director, Pharmacy, Hamdard University,
                                             Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Gouda K
                                                     Helal</strong></a>,&nbsp;Professor, Pharmacology and Toxicology and Dean
                                             Faculty of Pharmacy, Heliopolis University, Cairo, Egypt<br></li>
+                                        <li><a href="#"><strong>Huma
+                                                    Rasheed</strong></a>,&nbsp;Bio Restorative Therapies Inc.
+                                            USA<br></li>
+                                        <li><a href="#"><strong>Huma
+                                                    Sharif</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Humaira
+                                                    Siddiqui</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
                                         <li><a href="#"><strong>Iqbal
                                                     Azhar</strong></a>,&nbsp;Professor, Faculty of Pharmacy and
                                             Pharmaceutical Sciences, University of Karachi, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Irfan
+                                                    Hamid</strong></a>,&nbsp;Cadson College of Pharmacy, Kharian,
+                                            Pakistan<br></li>
                                         <li><a href="#"><strong>Khuwaja Zafar
                                                     Ahmed</strong></a>,&nbsp;Professor, Nazeer Hussain University, Karachi,
                                             Pakistan<br></li>
+                                        <li><a href="#"><strong>Mohtasheemul
+                                                    Hasan</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
                                         <li><a href="#"><strong>Muhammad
                                                     Arif</strong></a>,&nbsp;Professor, Hamdard University, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Muhammad Iyad
+                                                    Naeem</strong></a>,&nbsp;University of Karachi, Karachi,
                                             Pakistan<br></li>
                                         <li><a href="#"><strong>M. Harris
                                                     Shoaib</strong></a>,&nbsp;Professor, Faculty of Pharmacy and
@@ -112,14 +148,47 @@
                                         <li><a href="#"><strong>Nousheen
                                                     Mushtaq</strong></a>,&nbsp;Professor, Faculty of Pharmacy and
                                             Pharmaceutical Sciences, University of Karachi, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Nuzhat
+                                                    Sultana</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Rabia
+                                                    Bushra</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Rabia Ismail
+                                                    Yousuf</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
                                         <li><a href="#"><strong>Rafeeq Alam
                                                     Khan</strong></a>,&nbsp;Professor and Dean, Faculty of Pharmacy,
                                             Ziauddin University, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Sadia Ghousia
+                                                    Baig</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Safila
+                                                    Naveed</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Saira Saeed
+                                                    Khan</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Sana
+                                                    Sarfaraz</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Shadab
+                                                    Ahmed</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
                                         <li><a href="#"><strong>Sharafat Ullah
                                                     Khan</strong></a>,&nbsp;Professor, Tabba Heart Institute, Karachi,
                                             Pakistan<br></li>
+                                        <li><a href="#"><strong>S.M. Farid
+                                                    Hasan</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>S.M. Shamim
+                                                    Hussain</strong></a>,&nbsp;Karachi Medical &amp; Dental College,
+                                            Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Sohail
                                                     Anwer</strong></a>,&nbsp;Professor, Hamdard University, Karachi,
+                                            Pakistan<br></li>
+                                        <li><a href="#"><strong>Sohail
+                                                    Hasan</strong></a>,&nbsp;University of Karachi, Karachi,
                                             Pakistan<br></li>
                                         <li><a href="#"><strong>Syed Baqir S.
                                                     Naqvi</strong></a>,&nbsp;Professor, Faculty of Pharmacy, Hamdard
@@ -127,6 +196,9 @@
                                         <li><a href="#"><strong>Syed Waseemuddin
                                                     Ahmed</strong></a>,&nbsp;Professor and Dean, Faculty of Pharmacy,
                                             Benazir Bhutto Shaheed University, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Syeda
+                                                    Afroz</strong></a>,&nbsp;University of Karachi, Karachi,
+                                            Pakistan<br></li>
                                         <li><strong><a href="#">Tom B.
                                                     Vree</a>,</strong>&nbsp;Professor, Sint Annastraat 85 6524EJ Nijmegen,
                                             the Netherlands<br></li>
