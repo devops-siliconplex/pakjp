@@ -61,19 +61,15 @@
                                     </ul>
 
 
-                                    <p style="font-size:18px"><strong>Assistant Editors</strong></p>
+                                    {{-- <p style="font-size:18px"><strong>Assistant Editors</strong></p> --}}
 
 
 
                                     <ul>
-                                        <li><a href="#"><strong>Syeda
-                                                    Afroz</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
-                                        <li><a href="#"><strong>Afshan
-                                                    Siddiq</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
-                                        <li><a href="#"><strong>Azra
-                                                    Riaz</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
-                                        <li><a href="#"><strong>Sana
-                                                    Sarfaraz</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
+                                       
+                                        
+                                       
+                                        
                                     </ul>
 
 
@@ -90,6 +86,10 @@
                                                     Baig</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Asia
                                                     Naz</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Afshan
+                                                    Siddiq</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Azra
+                                                        Riaz</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Fouzia
                                                     Hassan</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Furqan
@@ -103,7 +103,7 @@
                                         <li><a href="#"><strong>Huma
                                                     Sharif</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Humaira
-                                                    Siddiqui</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
+                                                    Khatoon</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Iqbal
                                                     Azhar</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Irfan
@@ -134,6 +134,10 @@
                                                     Bushra</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>Rabia Ismail
                                                     Yousuf</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Sana
+                                                        Sarfaraz</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
+                                        <li><a href="#"><strong>Syeda
+                                                        Afroz</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>S.M. Farid
                                                     Hasan</strong></a>,&nbsp;University of Karachi, Karachi, Pakistan<br></li>
                                         <li><a href="#"><strong>S.M. Shamim
